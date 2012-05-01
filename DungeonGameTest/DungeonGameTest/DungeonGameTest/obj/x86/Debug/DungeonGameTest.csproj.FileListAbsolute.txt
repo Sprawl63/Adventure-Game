@@ -7,3 +7,12 @@ C:\Users\Brenton\documents\visual studio 2010\Projects\DungeonGameTest\DungeonGa
 C:\Users\Brenton\documents\visual studio 2010\Projects\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\level1.xnb
 C:\Users\Brenton\documents\visual studio 2010\Projects\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\item1.xnb
 C:\Users\Brenton\documents\visual studio 2010\Projects\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\item2.xnb
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\level1.xnb
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\item1.xnb
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\item2.xnb
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\DungeonGameTest.exe
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\DungeonGameTest.pdb
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\obj\x86\Debug\DungeonGameTest.exe
+C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\obj\x86\Debug\DungeonGameTest.pdb
