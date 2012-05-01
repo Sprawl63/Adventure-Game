@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonGameTest", "DungeonGameTest\DungeonGameTest\DungeonGameTest.csproj", "{50D0F6C9-76BC-4C71-940C-507D969DBAB9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DungeonGameTestContent", "DungeonGameTest\DungeonGameTestContent\DungeonGameTestContent.contentproj", "{DB6F51AD-AEAE-465D-92AB-AC7A531B3954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D0F6C9-76BC-4C71-940C-507D969DBAB9}.Debug|x86.ActiveCfg = Debug|x86
+		{50D0F6C9-76BC-4C71-940C-507D969DBAB9}.Debug|x86.Build.0 = Debug|x86
+		{50D0F6C9-76BC-4C71-940C-507D969DBAB9}.Release|x86.ActiveCfg = Release|x86
+		{50D0F6C9-76BC-4C71-940C-507D969DBAB9}.Release|x86.Build.0 = Release|x86
+		{DB6F51AD-AEAE-465D-92AB-AC7A531B3954}.Debug|x86.ActiveCfg = Debug|x86
+		{DB6F51AD-AEAE-465D-92AB-AC7A531B3954}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
