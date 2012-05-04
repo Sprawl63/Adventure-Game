@@ -60,6 +60,7 @@
     <XnaCompressContent>true</XnaCompressContent>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Kinect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
       <Private>False</Private>
     </Reference>
@@ -109,7 +110,6 @@
   <ItemGroup>
     <Compile Include="Bbox.cs" />
     <Compile Include="CollisionTask.cs" />
-    <Compile Include="GameObject.cs" />
     <Compile Include="Level.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
@@ -119,7 +119,6 @@
   <ItemGroup>
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
-    <Content Include="level1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DungeonGameTestContent\DungeonGameTestContent.contentproj">

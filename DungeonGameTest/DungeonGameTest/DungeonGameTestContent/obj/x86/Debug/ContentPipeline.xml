@@ -2,31 +2,58 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>level1.jpg</Source>
+      <Source>level2.jpg</Source>
+      <Name>level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\level2.xnb</Output>
+      <Time>2012-05-01T17:56:43.0084998-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fountain.png</Source>
+      <Name>fountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\fountain.xnb</Output>
+      <Time>2012-05-01T17:56:43.0064997-04:00</Time>
+    </Item>
+    <Item>
+      <Source>level1.png</Source>
       <Name>level1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\level1.xnb</Output>
-      <Time>2012-05-01T10:33:54.1278021-04:00</Time>
+      <Time>2012-05-01T17:56:43.0074997-04:00</Time>
     </Item>
     <Item>
-      <Source>item1.png</Source>
-      <Name>item1</Name>
+      <Source>torch.png</Source>
+      <Name>torch</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\item1.xnb</Output>
-      <Time>2012-05-01T10:39:58.7036547-04:00</Time>
+      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\torch.xnb</Output>
+      <Time>2012-05-01T17:56:43.0094999-04:00</Time>
     </Item>
     <Item>
-      <Source>item2.png</Source>
-      <Name>item2</Name>
+      <Source>hand.png</Source>
+      <Name>hand</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\item2.xnb</Output>
-      <Time>2012-05-01T10:59:36.1329998-04:00</Time>
+      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\hand.xnb</Output>
+      <Time>2012-05-03T19:13:25.7452654-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brenton\Desktop\Adventure-Game\DungeonGameTest\DungeonGameTest\DungeonGameTest\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-05-02T18:35:29.5006977-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

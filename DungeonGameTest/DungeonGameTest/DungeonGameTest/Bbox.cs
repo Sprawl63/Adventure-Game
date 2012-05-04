@@ -19,23 +19,16 @@ namespace DungeonGameTest
         private int height;
         private int width;
         private Texture2D image;
+        private string element;
 
         //bbox constructor, gets passed image and disired x and y coordiantes
-        public Bbox(Texture2D img, float x, float y)
+        public Bbox(Texture2D img, float x, float y, string el)
         {
             position = new Vector2(x, y);
             getSize(img);
             boundingBox = new Rectangle((int)x, (int)y, width, height);
             image = img;
-        }
-
-        //kinda don't need this anymore...
-        public void createBbox(Texture2D image, float x, float y)
-        {
-            position.X = x;
-            position.Y = y;
-            getSize(image);
-            boundingBox = new Rectangle((int)x, (int)y, width, height);
+            element = el;
         }
 
         //gets size and width of image passed to bbox
@@ -51,10 +44,26 @@ namespace DungeonGameTest
             return boundingBox;
         }
 
+        public void setBboxRect(int x, int y)
+        {
+            boundingBox.X = x;
+            boundingBox.Y = y;
+        }
+
         //returns image passed to bbox object
         public Texture2D getImage()
         {
             return image;
+        }
+
+        public string getElement()
+        {
+            return element;
+        }
+
+        public void setElement(string el)
+        {
+            element = el;
         }
     }
 }

@@ -1,3 +1,6 @@
+Content\level2.xnb
+Content\fountain.xnb
 Content\level1.xnb
-Content\item1.xnb
-Content\item2.xnb
+Content\torch.xnb
+Content\hand.xnb
+Content\SpriteFont1.xnb
